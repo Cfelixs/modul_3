@@ -39,7 +39,7 @@ public function add ()
 
 ```
 
-cara melihat hasilnya silahkan mengaktifkan xampp dan cmd seperti dibawah ini:
+cara melihat hasilnya silahkan mengaktifkan xampp dan cmd 
 
 
 
@@ -52,7 +52,7 @@ setelah mengaktifkan server silahkan menuju ke browser/chrome salin link dibawah
 ```
 hhtp//localhost:8000/kategori
 ```
-hasilnya akan terlihat seperti in 
+hasilnya akan terlihat seperti ini
 
 
 jika di klik link tersebut maka akan menuju ke halaman kategori add seperti dibawah ini
