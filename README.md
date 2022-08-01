@@ -39,6 +39,7 @@ public function add ()
 
 cara melihat hasilnya silahkan mengaktifkan xampp dan cmd seperti dibawah ini:
 
+![Screenshot (3)](https://user-images.githubusercontent.com/109930345/182108660-f71019af-8ca2-40fa-bb73-8bac6c55c133.png)
 
 
 
