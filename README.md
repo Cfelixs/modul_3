@@ -10,7 +10,7 @@
 
 >tugas soal nomer 2 buatlah halman tambah data di setiap route 
 
-pertama-tama membuat *"class controller"* di vscode ke terminal caracepat *"ctrl+shift+*" llu comand dibawah ini 
+pertama-tama membuat *"class controller"* di vscode ke terminal cara cepat *"ctrl+shift+*" lalu comand dibawah ini 
 
 ```
 php artisan mak:controller kategoricontroller
@@ -40,6 +40,7 @@ public function add ()
 ```
 
 cara melihat hasilnya silahkan mengaktifkan xampp dan cmd 
+![Screenshot (4)](https://user-images.githubusercontent.com/109930345/182274234-f9d6064e-9a10-4747-991a-656741dd83e2.png)
 
 
 
@@ -52,7 +53,7 @@ setelah mengaktifkan server silahkan menuju ke browser/chrome salin link dibawah
 ```
 hhtp//localhost:8000/kategori
 ```
-hasilnya akan terlihat seperti ini
+hasilnya akan terlihat seperti itu
 
 
-jika di klik link tersebut maka akan menuju ke halaman kategori add seperti dibawah ini
+
