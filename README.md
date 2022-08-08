@@ -44,14 +44,15 @@ cara melihat hasilnya silahkan mengaktifkan xampp dan cmd
 
 
 
-
-
 setelah mengaktifkan server silahkan menuju ke browser/chrome salin link dibawah ini lalu tempelkan ke browser/ chrome 
 ```
 hhtp//localhost:8000/kategori
 ```
 hasilnya akan terlihat seperti itu
 
+![image](https://user-images.githubusercontent.com/109930345/183361458-18dbb357-819a-42ca-845c-ba04a87e1d35.png)
+
+![image](https://user-images.githubusercontent.com/109930345/183361521-ac854285-fada-4fd2-854e-1f656c9b8542.png)
 
 
 
