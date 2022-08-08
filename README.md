@@ -40,10 +40,7 @@ public function add ()
 ```
 
 cara melihat hasilnya silahkan mengaktifkan xampp dan cmd 
-![Screenshot (4)](https://user-images.githubusercontent.com/109930345/182274234-f9d6064e-9a10-4747-991a-656741dd83e2.png)
-
-
-
+![image](https://user-images.githubusercontent.com/109930345/183361219-947fe9ea-cafa-4d3b-ae38-d7d8908fd243.png)
 
 
 
@@ -54,6 +51,7 @@ setelah mengaktifkan server silahkan menuju ke browser/chrome salin link dibawah
 hhtp//localhost:8000/kategori
 ```
 hasilnya akan terlihat seperti itu
+
 
 
 
